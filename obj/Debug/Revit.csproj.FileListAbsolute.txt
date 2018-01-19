@@ -1,0 +1,41 @@
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\Beaker.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\Beaker.pdb
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\obj\Debug\Beaker.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\obj\Debug\Beaker.pdb
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\ProtoGeometry.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\cs-CZ\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\de-DE\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\en-US\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\es-ES\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\fr-FR\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\it-IT\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\ja-JP\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\ko-KR\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\pl-PL\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\pt-BR\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\ru-RU\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\zh-CN\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\zh-TW\ProtoGeometry.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\Beaker.XML
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\CoreNodeModels.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\NCalc.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\cs-CZ\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\de-DE\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\en-US\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\es-ES\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\fr-FR\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\it-IT\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\ja-JP\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\ko-KR\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\pl-PL\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\pt-BR\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\ru-RU\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\zh-CN\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\zh-TW\CoreNodeModels.resources.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\RevitAPIUI.dll
+C:\Users\johnp\Documents\Visual Studio 2015\Projects\Beaker\Beaker_nodes\bin\Debug\RevitAPIUI.xml
+C:\Users\johnp\Documents\Source\Repos\beaker_for_dynamo\Beaker\Beaker_nodes\bin\Debug\Beaker.XML
+C:\Users\johnp\Documents\Source\Repos\beaker_for_dynamo\Beaker\Beaker_nodes\obj\Debug\Beaker.dll
+C:\Users\johnp\Documents\Source\Repos\beaker_for_dynamo\Beaker\Beaker_nodes\obj\Debug\Beaker.pdb
+C:\Users\johnp\Documents\Source\Repos\beaker_for_dynamo\Beaker\Beaker_nodes\bin\Debug\Beaker.dll
+C:\Users\johnp\Documents\Source\Repos\beaker_for_dynamo\Beaker\Beaker_nodes\bin\Debug\Beaker.pdb
